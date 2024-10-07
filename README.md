@@ -15,8 +15,21 @@ Technologies Used:
 -Database: MySQL, managed via phpMyAdmin, for storing data such as products, categories, and user information.
 -Server: XAMPP (Apache) for hosting the web application locally.
 ![image](https://github.com/user-attachments/assets/46666847-47dc-4363-be82-36920aaf00d3)
-![image](https://github.com/user-attachments/assets/1050d94d-e642-4b6c-a070-1e966cf1f6e0)
-![image](https://github.com/user-attachments/assets/11b97f28-3dca-44fc-b2f9-df8a1660c1d7)
-![image](https://github.com/user-attachments/assets/44a0af1c-a31e-451e-aeb4-50d02fdc9907)
-![image](https://github.com/user-attachments/assets/2b0b71e7-6f99-429d-8f44-2074777e6dbc)
+![image](https://github.com/user-attachments/assets/81d1e19e-005b-4446-bbe9-4986a03b7e41)
+![image](https://github.com/user-attachments/assets/f885bafc-0495-49ea-b307-c95418dd7481)
+![image](https://github.com/user-attachments/assets/3604c254-65fb-4f21-bc30-702ac8daec8b)
+![image](https://github.com/user-attachments/assets/8a495195-3471-4504-b6a6-829e7be0236f)
+![image](https://github.com/user-attachments/assets/db24011c-99a7-41c0-af36-66c944a95ddc)
+![image](https://github.com/user-attachments/assets/4eaa9ec9-4b7f-47b7-8ba5-ca2609d08111)
+![image](https://github.com/user-attachments/assets/475a3c9b-4b49-4823-bb91-ee92e5bea96a)
+![image](https://github.com/user-attachments/assets/578e6755-4d0a-4840-b9c7-a62d0a5eb7c3)
+![image](https://github.com/user-attachments/assets/ed64392d-35e4-4488-9ed2-fdcf8670605e)
+
+
+
+
+
+
+
+
 
