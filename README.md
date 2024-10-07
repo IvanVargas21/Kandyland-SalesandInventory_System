@@ -14,3 +14,9 @@ Technologies Used:
 -Backend: PHP for server-side processing and logic.
 -Database: MySQL, managed via phpMyAdmin, for storing data such as products, categories, and user information.
 -Server: XAMPP (Apache) for hosting the web application locally.
+![image](https://github.com/user-attachments/assets/46666847-47dc-4363-be82-36920aaf00d3)
+![image](https://github.com/user-attachments/assets/1050d94d-e642-4b6c-a070-1e966cf1f6e0)
+![image](https://github.com/user-attachments/assets/11b97f28-3dca-44fc-b2f9-df8a1660c1d7)
+![image](https://github.com/user-attachments/assets/44a0af1c-a31e-451e-aeb4-50d02fdc9907)
+![image](https://github.com/user-attachments/assets/2b0b71e7-6f99-429d-8f44-2074777e6dbc)
+
